@@ -24,7 +24,7 @@ To get started with this project, follow the installation instructions and explo
 
 ## Demo
 
-https://raw.githubusercontent.com/Rachit360/Business-Intelligence-Dashboard-for-Energy-Data-Insights/main/demo.mp4
+https://github.com/Rachit360/Business-Intelligence-Dashboard-for-Energy-Data-Insights/blob/main/demo.mp4
 
 
 > If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request
